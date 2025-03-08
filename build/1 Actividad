@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <h1>Informacion personal</h1></div>  
+<p> <h3>Mi informacion personal</h3> nombre, edad, Dirrecion, Telefono, Correo, seccion y area tecnica.</p></body>
+<title>Mi primera pagina web.</title>
+<h3>Nombre</h3><p>Yiver david fousten martinez.</p>
+<h3>Edad</h3><p>15 años.</p>
+<h3>Dirrecion</h3> <p>los multi cerca de los bomberos.</p>
+<h3>Telefono</h3> <p>809-421-5638</p>
+<h3>Correo</h3> <p>yiverdavi@gmail.com</p>
+<h3>Seccion</h3> <p>4D1 de informatica.</p>
+<h3>Area tecnica</h3> <p>Desarrollo y administración de aplicaciones informatacas, (informática).</p>
+
+<h1>Sobre mi</h1>
+<h5>Mi nombre es yiver tengo 15 años actualmente naci el 11 de septiembre del 2009 el san pedro de macoris en el hospital franklin peña.</h5>
+<h5>soy una persona muy sociable me encata convesar sobre temas interesantes soy humilde respecto si me respectal tambien soy solitario.</h5>
+<h5>soy muy curioso me encata aprender cosas nuevas una de mis materia favorita es ciencias naturales porque me encata la fisica y la quimica.</h5>
+<h1>Mis pasatiempos favoritos son</h1>
+<li>Me gusta jugar videojuegos.</li>
+<li>Me gusta jugar deportes.</li>
+<li> Me gusta aprender cosas nuevas todo los dias.</li>
+<li> Me gusta ver series, peliculas, animes.</li>
+<li> no me gustan los problemas.</li>
+<li> me encata leer.</li>
+<li> tambien me gusta estudiar y dormir.</li>
+<li> y me gusta hablar con los panas mios.</li>
+</body>
+</html>
